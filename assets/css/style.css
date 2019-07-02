@@ -165,8 +165,30 @@ button:hover{
 }
 .w-80p{ width: 80px !important;}
 .h-150p{ height: 150px;}
-
-
+.w-130p{ width: 130px; }
+.w-60p{ width: 60px !important;}
+.owl-carousel .item{
+	position: relative;
+	text-align: center;
+}
+.mt-5e{
+	margin-top: 4.5rem;
+}
+p.user-name{
+	text-align: center;
+	width: 100%;
+	/* position: absolute; */
+    /* left: 7px;
+    right: 0;
+    display: flex;
+    bottom: -26px; */
+}
+.ml-20p{margin-left: 20px;}
+.ml--5{margin-left: -5px;}
+.ml-34{margin-left: 32px;}
+.owl-item img{
+	margin: auto;
+}
 @media(max-width: 425px){
 	.filter img{
 		display: none;
