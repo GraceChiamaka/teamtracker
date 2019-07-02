@@ -172,20 +172,12 @@ button:hover{
 	text-align: center;
 }
 .mt-5e{
-	margin-top: 4.5rem;
+	margin-top: 5.5rem;
 }
 p.user-name{
 	text-align: center;
 	width: 100%;
-	/* position: absolute; */
-    /* left: 7px;
-    right: 0;
-    display: flex;
-    bottom: -26px; */
 }
-.ml-20p{margin-left: 20px;}
-.ml--5{margin-left: -5px;}
-.ml-34{margin-left: 32px;}
 .owl-item img{
 	margin: auto;
 }
