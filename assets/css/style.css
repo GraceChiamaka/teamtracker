@@ -213,6 +213,11 @@ p.user-name{
 		text-align: center !important;
 		font-size: 14px; 
 	}
+
+	p.tracker{
+		text-align: center;
+		font-size: 14px;
+	}
 	.custom--select-input2{
 		display: inline-block !important;
 		border: none;
